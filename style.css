@@ -61,7 +61,7 @@ footer a:hover {
 }
 
 .hero-section {
-  background: url('https://picsum.photos/1200/500?blur=3') center center/cover no-repeat;
+  background: url('images/bg.jpg') center center/cover no-repeat;
   color: white;
   padding: 120px 20px 80px 20px;
   text-align: center;
